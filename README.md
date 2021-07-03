@@ -1,6 +1,5 @@
 # Github-Finder  👨‍
 
-💻
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://reactinvoicepanel.web.app/login?redirect=%2F)
 
 ## Overview 👀
@@ -23,13 +22,5 @@
 - [Bootstrap] - **CSS Framework**
 
 
-## Run Locally 💻
-
-```
-> Clone the repo
-    >> For Windows: Git Bash
-    >> For Linux: Terminal
-    >> git clone https://github.com/AsishRaju/450-DSA.git
-```
 
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ehte444/githubfinder-JsProject-APIs)
