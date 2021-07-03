@@ -1,10 +1,10 @@
 # Github-Finder  👨‍
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://reactinvoicepanel.web.app/login?redirect=%2F)
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://vercel.com/ehte444/githubfinder/DoLBABB2XGdfdR455JWAn1zbtYN5)
 
 ## Overview 👀
 
-![](https://raw.githubusercontent.com/ehte444/ClientPanel/master/.gitres/Screenshot%20(254).png)
+![](https://raw.githubusercontent.com/ehte444/githubfinder-JsProject-APIs/master/Screenshot%20(255).png)
 
 - **Hooked with Github API**
 - **Clean UI ⚡**
