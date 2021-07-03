@@ -1,6 +1,6 @@
 # Github-Finder  👨‍
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://vercel.com/ehte444/githubfinder/DoLBABB2XGdfdR455JWAn1zbtYN5)
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://githubfinder-a01fx2l7h-ehte444.vercel.app/)
 
 ## Overview 👀
 
